@@ -10,11 +10,6 @@
     <Folder Include="Areas\Identity\Pages\Account\Manage\" />
     <Folder Include="Controllers\" />
     <Folder Include="Data\Configurations\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Hubs\" />
-    <Folder Include="Mappings\" />
-    <Folder Include="Models\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>
