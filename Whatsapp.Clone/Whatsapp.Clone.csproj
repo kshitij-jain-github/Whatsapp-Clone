@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\Identity\Pages\Account\Manage\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Data\Configurations\" />
   </ItemGroup>
 
 </Project>
