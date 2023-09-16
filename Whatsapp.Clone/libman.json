@@ -8,7 +8,12 @@
     },
     {
       "library": "knockout@3.5.1",
-      "destination": "wwwroot/knockout/"
+      "destination": "wwwroot/lib/knockout/",
+      "files": [
+        "knockout-latest.js",
+        "knockout-latest.debug.js",
+        "knockout-latest.min.js"
+      ]
     }
   ]
 }
