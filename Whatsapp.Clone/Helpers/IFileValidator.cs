@@ -1,6 +1,7 @@
 ﻿namespace Whatsapp.Clone.Helpers
 {
-    public class IFileValidator
+    public interface IFileValidator
     {
+        bool IsValid(IFormFile file);
     }
 }
