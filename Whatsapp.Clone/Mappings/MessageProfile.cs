@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Whatsapp.Clone.ViewModels;
 using Whatsapp.Clone.Models;
+using Whatsapp.Clone.Helpers;
 
 namespace Whatsapp.Clone.Mappings
 {

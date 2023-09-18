@@ -5,8 +5,8 @@
 using System;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace  Chat.Web.Areas.Identity.Pages.Account.Manage
-{
+namespace  Whatsapp.Clone.Areas.Identity.Pages.Account.ManageViewModels
+{ 
     /// <summary>
     ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
     ///     directly from your code. This API may change or be removed in future releases.
